@@ -72,7 +72,7 @@ Código	Valor
 01621	Actividades para mejorar la reproducción, el crecimiento y el rendimiento de los animales y sus productos
 56107	Actividades varias de restaurantes
 75000	Actividades veterinarias
-68200	Actleidades Inmobiliarias Realizadas a Cambio de una Retribución o por Contrata
+68200	Actividades Inmobiliarias Realizadas a Cambio de una Retribución o por Contrata
 03220	Acuicultura de agua dulce
 03210	Acuicultura marítima
 66110	Administración de mercados financieros (Bolsa de Valores)
